@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Mobili Pozzo Virtual Tour</title>
+  <title></title>
   <meta charset="utf-8">
   <meta name="viewport"
     content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
@@ -21,12 +21,13 @@
   <div id="pano"></div>
 
   <div id="sceneList">
-    <ul class="scenes"></ul>
+    <ul class="scenes">
+    </ul>
   </div>
 
-  <!-- <div id="titleBar">
+  <div id="titleBar">
     <h1 class="sceneName"></h1>
-  </div> -->
+  </div>
 
   <a href="javascript:void(0)" id="autorotateToggle" style="display: none;">
     <img class="icon off" src="img/play.png">
@@ -73,109 +74,21 @@
 
     var el = document.querySelector('#sceneList ul');
 
-    // ORIGINAL SCRIPT (Lists all the photos as nodes)
-
-    // APP_DATA.scenes.forEach(i => {
-    //   var a = document.createElement('a');
-    //   var li = document.createElement('li');
-
-    //   a.classList.add('scene');
-    //   a.setAttribute('data-id', i.id);
-    //   a.setAttribute('href', 'javascript:void(0)');
-    //   a.setAttribute('ambient', i.ambient)
-
-    //   li.classList.add('text');
-    //   li.innerHTML = i.name;
-
-    //   a.appendChild(li);
-    //   el.appendChild(a);
-
-    // });
-
-
-    // CUSTOM SCRIPT 1 (Nests all the nodes of the scenes according to the ambient)
-
-    // APP_DATA.scenes.forEach(i => {
-    //   var a = document.createElement('a');
-
-    //   a.classList.add('ambient');
-    //   a.setAttribute('href', 'javascript:void(0)');
-    //   a.setAttribute('name', i.ambient)
-
-    //   console.log(el.childNodes)
-    //   console.log(el.childNodes)
-
-    //   var collision = 0
-    //   el.childNodes.forEach(node => {
-    //     console.log(node.name)
-    //     if (node.name == i.ambient){
-    //       collision = 1
-    //     }
-    //   })
-
-    //   if (el.childNodes.length == 0 || collision == 0) {
-    //     el.appendChild(a);
-    //   }
-
-    // });
-
-    // APP_DATA.scenes.forEach(i => {
-    //   var o = document.createElement('o');
-    //   var li = document.createElement('li');
-
-    //   o.classList.add('scene');
-    //   o.setAttribute('data-id', i.id);
-    //   o.setAttribute('href', 'javascript:void(0)');
-    //   o.setAttribute('ambient', i.ambient)
-
-    //   li.classList.add('text');
-    //   li.innerHTML = i.name;
-
-    //   o.appendChild(li);
-
-    //   // var collision = 0
-    //   // el.childNodes.forEach(node => {
-    //   //   if (node.name == i.ambient){
-    //   //     if (node.childNodes.length == 0){
-    //         node.appendChild(o)
-    //   //     }
-    //   //   }
-    //   // })
-
-    // });
-
-      // CUSTOM SCRIPT 2 (Displays only first entry for each ambient, make sure that the first entry is the entrance to the ambient)
-
     APP_DATA.scenes.forEach(i => {
       var a = document.createElement('a');
       var li = document.createElement('li');
 
       a.classList.add('scene');
       a.setAttribute('data-id', i.id);
-      a.setAttribute('ambient', i.ambient);
       a.setAttribute('href', 'javascript:void(0)');
 
       li.classList.add('text');
       li.innerHTML = i.name;
 
       a.appendChild(li);
+      el.appendChild(a);
 
-      console.log(el.childNodes)
-
-      var collision = 0
-      el.childNodes.forEach(node => {
-        console.log(node.ambient)
-        if (node.getAttribute("ambient") == i.ambient){
-          collision = 1
-        }
-      })
-
-      if (collision == 0){
-        el.appendChild(a)
-      }
-  
     });
-
   </script>
 
   <script src="index.js"></script>

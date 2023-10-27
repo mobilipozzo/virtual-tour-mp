@@ -148,6 +148,9 @@
   // Set handler for scene switch.
   scenes.forEach(function(scene) {
     var el = document.querySelector('#sceneList .scene[data-id="' + scene.data.id + '"]');
+    if (el == null) {
+      return
+    }
     el.addEventListener('click', function() {
       switchScene(scene);
       // On mobile, hide scene list after selecting a scene.
@@ -253,7 +256,7 @@
 
     // Create image element.
     var icon = document.createElement('img');
-    icon.src = 'img/link.png';
+    icon.src = 'img/pin2.svg';
     icon.classList.add('link-hotspot-icon');
 
     // Set rotation transform.

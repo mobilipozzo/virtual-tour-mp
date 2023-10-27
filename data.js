@@ -2,7 +2,8 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-negozio-1_-1",
-      "name": "negozio 1_ (1)",
+      "ambient": "Showrooom Blu" ,
+      "name": "Showroom Blu",
       "levels": [
         {
           "tileSize": 256,
@@ -93,6 +94,7 @@ var APP_DATA = {
     },
     {
       "id": "1-negozio-1_-2",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (2)",
       "levels": [
         {
@@ -141,6 +143,7 @@ var APP_DATA = {
     },
     {
       "id": "2-negozio-1_-3",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (3)",
       "levels": [
         {
@@ -195,6 +198,7 @@ var APP_DATA = {
     },
     {
       "id": "3-negozio-1_-4",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (4)",
       "levels": [
         {
@@ -255,6 +259,7 @@ var APP_DATA = {
     },
     {
       "id": "4-negozio-1_-5",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (5)",
       "levels": [
         {
@@ -303,6 +308,7 @@ var APP_DATA = {
     },
     {
       "id": "5-negozio-1_-6",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (6)",
       "levels": [
         {
@@ -351,6 +357,7 @@ var APP_DATA = {
     },
     {
       "id": "6-negozio-1_-7",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (7)",
       "levels": [
         {
@@ -405,6 +412,7 @@ var APP_DATA = {
     },
     {
       "id": "7-negozio-1_-8",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (8)",
       "levels": [
         {
@@ -453,6 +461,7 @@ var APP_DATA = {
     },
     {
       "id": "8-negozio-1_-9",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (9)",
       "levels": [
         {
@@ -495,6 +504,7 @@ var APP_DATA = {
     },
     {
       "id": "9-negozio-1_-10",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (10)",
       "levels": [
         {
@@ -543,6 +553,7 @@ var APP_DATA = {
     },
     {
       "id": "10-negozio-1_-11",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (11)",
       "levels": [
         {
@@ -591,6 +602,7 @@ var APP_DATA = {
     },
     {
       "id": "11-negozio-1_-12",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (12)",
       "levels": [
         {
@@ -639,6 +651,7 @@ var APP_DATA = {
     },
     {
       "id": "12-negozio-1_-13",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (13)",
       "levels": [
         {
@@ -687,6 +700,7 @@ var APP_DATA = {
     },
     {
       "id": "13-negozio-1_-14",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (14)",
       "levels": [
         {
@@ -729,6 +743,7 @@ var APP_DATA = {
     },
     {
       "id": "14-negozio-1_-15",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (15)",
       "levels": [
         {
@@ -783,6 +798,7 @@ var APP_DATA = {
     },
     {
       "id": "15-negozio-1_-16",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (16)",
       "levels": [
         {
@@ -837,6 +853,7 @@ var APP_DATA = {
     },
     {
       "id": "16-negozio-1_-17",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (17)",
       "levels": [
         {
@@ -891,6 +908,7 @@ var APP_DATA = {
     },
     {
       "id": "17-negozio-1_-18",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (18)",
       "levels": [
         {
@@ -933,6 +951,7 @@ var APP_DATA = {
     },
     {
       "id": "18-negozio-1_-19",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (19)",
       "levels": [
         {
@@ -975,6 +994,7 @@ var APP_DATA = {
     },
     {
       "id": "19-negozio-1_-20",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (20)",
       "levels": [
         {
@@ -1029,6 +1049,7 @@ var APP_DATA = {
     },
     {
       "id": "20-negozio-1_-21",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (21)",
       "levels": [
         {
@@ -1084,6 +1105,7 @@ var APP_DATA = {
     },
     {
       "id": "21-negozio-1_-22",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (22)",
       "levels": [
         {
@@ -1132,6 +1154,7 @@ var APP_DATA = {
     },
     {
       "id": "22-negozio-1_-23",
+      "ambient": "Showrooom Blu" ,
       "name": "negozio 1_ (23)",
       "levels": [
         {
@@ -1180,7 +1203,8 @@ var APP_DATA = {
     },
     {
       "id": "23-negozio_1a-1",
-      "name": "negozio_1a (1)",
+      "ambient": "Showrooom Bianco" ,
+      "name": "Showroom Bianco",
       "levels": [
         {
           "tileSize": 256,
@@ -1241,6 +1265,7 @@ var APP_DATA = {
     },
     {
       "id": "24-negozio_1a-2",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (2)",
       "levels": [
         {
@@ -1289,6 +1314,7 @@ var APP_DATA = {
     },
     {
       "id": "25-negozio_1a-3",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (3)",
       "levels": [
         {
@@ -1343,6 +1369,7 @@ var APP_DATA = {
     },
     {
       "id": "26-negozio_1a-4",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (4)",
       "levels": [
         {
@@ -1397,6 +1424,7 @@ var APP_DATA = {
     },
     {
       "id": "27-negozio_1a-5",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (5)",
       "levels": [
         {
@@ -1439,6 +1467,7 @@ var APP_DATA = {
     },
     {
       "id": "28-negozio_1a-6",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (6)",
       "levels": [
         {
@@ -1493,6 +1522,7 @@ var APP_DATA = {
     },
     {
       "id": "29-negozio_1a-7",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (7)",
       "levels": [
         {
@@ -1541,6 +1571,7 @@ var APP_DATA = {
     },
     {
       "id": "30-negozio_1a-8",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (8)",
       "levels": [
         {
@@ -1589,6 +1620,7 @@ var APP_DATA = {
     },
     {
       "id": "31-negozio_1a-9",
+      "ambient": "Showrooom Bianco" ,
       "name": "negozio_1a (9)",
       "levels": [
         {
@@ -1631,7 +1663,8 @@ var APP_DATA = {
     },
     {
       "id": "32-negozio_2-1",
-      "name": "negozio_2 (1)",
+      "ambient": "Showrooom Rosso" ,
+      "name": "Showroom Rosso",
       "levels": [
         {
           "tileSize": 256,
@@ -1710,6 +1743,7 @@ var APP_DATA = {
     },
     {
       "id": "33-negozio_2-2",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (2)",
       "levels": [
         {
@@ -1764,6 +1798,7 @@ var APP_DATA = {
     },
     {
       "id": "34-negozio_2-3",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (3)",
       "levels": [
         {
@@ -1812,6 +1847,7 @@ var APP_DATA = {
     },
     {
       "id": "35-negozio_2-4",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (4)",
       "levels": [
         {
@@ -1860,6 +1896,7 @@ var APP_DATA = {
     },
     {
       "id": "36-negozio_2-5",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (5)",
       "levels": [
         {
@@ -1902,6 +1939,7 @@ var APP_DATA = {
     },
     {
       "id": "37-negozio_2-6",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (6)",
       "levels": [
         {
@@ -1950,6 +1988,7 @@ var APP_DATA = {
     },
     {
       "id": "38-negozio_2-7",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (7)",
       "levels": [
         {
@@ -2004,6 +2043,7 @@ var APP_DATA = {
     },
     {
       "id": "39-negozio_2-8",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (8)",
       "levels": [
         {
@@ -2052,6 +2092,7 @@ var APP_DATA = {
     },
     {
       "id": "40-negozio_2-9",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (9)",
       "levels": [
         {
@@ -2100,6 +2141,7 @@ var APP_DATA = {
     },
     {
       "id": "41-negozio_2-10",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (10)",
       "levels": [
         {
@@ -2154,6 +2196,7 @@ var APP_DATA = {
     },
     {
       "id": "42-negozio_2-11",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (11)",
       "levels": [
         {
@@ -2202,6 +2245,7 @@ var APP_DATA = {
     },
     {
       "id": "43-negozio_2-12",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (12)",
       "levels": [
         {
@@ -2262,6 +2306,7 @@ var APP_DATA = {
     },
     {
       "id": "44-negozio_2-13",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (13)",
       "levels": [
         {
@@ -2310,6 +2355,7 @@ var APP_DATA = {
     },
     {
       "id": "45-negozio_2-14",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (14)",
       "levels": [
         {
@@ -2358,6 +2404,7 @@ var APP_DATA = {
     },
     {
       "id": "46-negozio_2-15",
+      "ambient": "Showrooom Rosso" ,
       "name": "negozio_2 (15)",
       "levels": [
         {
@@ -2406,7 +2453,8 @@ var APP_DATA = {
     },
     {
       "id": "47-negozio_3-1",
-      "name": "negozio_3 (1)",
+      "ambient": "Showrooom Verde" ,
+      "name": "Showroom Verde",
       "levels": [
         {
           "tileSize": 256,
@@ -2485,6 +2533,7 @@ var APP_DATA = {
     },
     {
       "id": "48-negozio_3-2",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (2)",
       "levels": [
         {
@@ -2539,6 +2588,7 @@ var APP_DATA = {
     },
     {
       "id": "49-negozio_3-3",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (3)",
       "levels": [
         {
@@ -2587,6 +2637,7 @@ var APP_DATA = {
     },
     {
       "id": "50-negozio_3-4",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (4)",
       "levels": [
         {
@@ -2659,6 +2710,7 @@ var APP_DATA = {
     },
     {
       "id": "51-negozio_3-5",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (5)",
       "levels": [
         {
@@ -2701,6 +2753,7 @@ var APP_DATA = {
     },
     {
       "id": "52-negozio_3-6",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (6)",
       "levels": [
         {
@@ -2755,6 +2808,7 @@ var APP_DATA = {
     },
     {
       "id": "53-negozio_3-7",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (7)",
       "levels": [
         {
@@ -2815,6 +2869,7 @@ var APP_DATA = {
     },
     {
       "id": "54-negozio_3-8",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (8)",
       "levels": [
         {
@@ -2863,6 +2918,7 @@ var APP_DATA = {
     },
     {
       "id": "55-negozio_3-9",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (9)",
       "levels": [
         {
@@ -2911,6 +2967,7 @@ var APP_DATA = {
     },
     {
       "id": "56-negozio_3-10",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (10)",
       "levels": [
         {
@@ -2965,6 +3022,7 @@ var APP_DATA = {
     },
     {
       "id": "57-negozio_3-11",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (11)",
       "levels": [
         {
@@ -3013,6 +3071,7 @@ var APP_DATA = {
     },
     {
       "id": "58-negozio_3-12",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (12)",
       "levels": [
         {
@@ -3067,6 +3126,7 @@ var APP_DATA = {
     },
     {
       "id": "59-negozio_3-13",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (13)",
       "levels": [
         {
@@ -3109,6 +3169,7 @@ var APP_DATA = {
     },
     {
       "id": "60-negozio_3-14",
+      "ambient": "Showrooom Verde" ,
       "name": "negozio_3 (14)",
       "levels": [
         {
@@ -3151,7 +3212,8 @@ var APP_DATA = {
     },
     {
       "id": "61-negozio_4-1",
-      "name": "negozio_4 (1)",
+      "ambient": "Showrooom Giallo" ,
+      "name": "Showroom Giallo",
       "levels": [
         {
           "tileSize": 256,
@@ -3236,6 +3298,7 @@ var APP_DATA = {
     },
     {
       "id": "62-negozio_4-2",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (2)",
       "levels": [
         {
@@ -3284,6 +3347,7 @@ var APP_DATA = {
     },
     {
       "id": "63-negozio_4-3",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (3)",
       "levels": [
         {
@@ -3332,6 +3396,7 @@ var APP_DATA = {
     },
     {
       "id": "64-negozio_4-4",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (4)",
       "levels": [
         {
@@ -3386,6 +3451,7 @@ var APP_DATA = {
     },
     {
       "id": "65-negozio_4-5",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (5)",
       "levels": [
         {
@@ -3446,6 +3512,7 @@ var APP_DATA = {
     },
     {
       "id": "66-negozio_4-7",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (7)",
       "levels": [
         {
@@ -3494,6 +3561,7 @@ var APP_DATA = {
     },
     {
       "id": "67-negozio_4-8",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (8)",
       "levels": [
         {
@@ -3548,6 +3616,7 @@ var APP_DATA = {
     },
     {
       "id": "68-negozio_4-9",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (9)",
       "levels": [
         {
@@ -3602,6 +3671,7 @@ var APP_DATA = {
     },
     {
       "id": "69-negozio_4-10",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (10)",
       "levels": [
         {
@@ -3656,6 +3726,7 @@ var APP_DATA = {
     },
     {
       "id": "70-negozio_4-11",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (11)",
       "levels": [
         {
@@ -3704,6 +3775,7 @@ var APP_DATA = {
     },
     {
       "id": "71-negozio_4-12",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (12)",
       "levels": [
         {
@@ -3764,6 +3836,7 @@ var APP_DATA = {
     },
     {
       "id": "72-negozio_4-13",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (13)",
       "levels": [
         {
@@ -3818,6 +3891,7 @@ var APP_DATA = {
     },
     {
       "id": "73-negozio_4-14",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (14)",
       "levels": [
         {
@@ -3866,6 +3940,7 @@ var APP_DATA = {
     },
     {
       "id": "74-negozio_4-15",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (15)",
       "levels": [
         {
@@ -3914,6 +3989,7 @@ var APP_DATA = {
     },
     {
       "id": "75-negozio_4-16",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (16)",
       "levels": [
         {
@@ -3962,6 +4038,7 @@ var APP_DATA = {
     },
     {
       "id": "76-negozio_4-17",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (17)",
       "levels": [
         {
@@ -4016,6 +4093,7 @@ var APP_DATA = {
     },
     {
       "id": "77-negozio_4-19",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (19)",
       "levels": [
         {
@@ -4076,6 +4154,7 @@ var APP_DATA = {
     },
     {
       "id": "78-negozio_4-20",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (20)",
       "levels": [
         {
@@ -4124,6 +4203,7 @@ var APP_DATA = {
     },
     {
       "id": "79-negozio_4-21",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (21)",
       "levels": [
         {
@@ -4172,6 +4252,7 @@ var APP_DATA = {
     },
     {
       "id": "80-negozio_4-22",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (22)",
       "levels": [
         {
@@ -4232,6 +4313,7 @@ var APP_DATA = {
     },
     {
       "id": "81-negozio_4-23",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (23)",
       "levels": [
         {
@@ -4292,6 +4374,7 @@ var APP_DATA = {
     },
     {
       "id": "82-negozio_4-24",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (24)",
       "levels": [
         {
@@ -4340,6 +4423,7 @@ var APP_DATA = {
     },
     {
       "id": "83-negozio_4-25",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (25)",
       "levels": [
         {
@@ -4394,6 +4478,7 @@ var APP_DATA = {
     },
     {
       "id": "84-negozio_4-26",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (26)",
       "levels": [
         {
@@ -4448,6 +4533,7 @@ var APP_DATA = {
     },
     {
       "id": "85-negozio_4-27",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (27)",
       "levels": [
         {
@@ -4496,6 +4582,7 @@ var APP_DATA = {
     },
     {
       "id": "86-negozio_4-28",
+      "ambient": "Showrooom Giallo" ,
       "name": "negozio_4 (28)",
       "levels": [
         {
@@ -4543,7 +4630,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Negozio completo",
+  "name": "Mobili Pozzo Virtual Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
